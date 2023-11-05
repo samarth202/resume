@@ -148,6 +148,23 @@
             ]
         },
         {
+            "organization": "Southern Methodist University",
+            "location": "Dallas, TX, USA",
+            "position": "Office Of Information Technology Support Associate",
+            "url": "https://www.smu.com/",
+            "startDate": "2016-15-08",
+            "endDate": "2017-05-01",
+            "summary": "OIT provides computing & communications resources to SMU. We offer support services to help the SMU community use technology effectively & creatively.",
+            "highlights": [
+                "Providing customer service and technical support to college users using the Support ticket management system.",
+                "Installation of computer systems (Windows)",
+                "Instructional lab management ( Mac + Windows Machines )",
+                "Inventory tracking and management.",
+                "Classroom lecture recording setup.",
+                "Assistance in organizing various events in the university."
+            ]
+        },
+        {
             "organization": "BookMyShow",
             "location": "Mumbai, India",
             "position": "Software Developer",
