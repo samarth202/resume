@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Samarth Suresh Kumar",
+        "label": "Software Engineer",
+        "image": "",
+        "email": "samarth202@gmail.com",
+        "phone": "(469) 450-5349",
+        "url": "https://www.linkedin.com/in/samarthskumar",
+        "summary": "Experienced Software Developer with a demonstrated history of working in the higher education industry. Skilled in NodeJS, .NET Framework, C#, Java,  SQL and MongoDB. Strong administrative and Analytical professional with a degree in Information Engineering and Management focused in Management Information Systems,  from Southern Methodist University.",
+        "location": {
+            "address": "2850 Izabella Ct",
+            "postalCode": "TX 75033",
+            "city": "Frisco",
+            "countryCode": "US",
+            "region": "Texas"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "samarthskumar",
+                "url": "https://www.linkedin.com/in/samarthskumar"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Yum Brands!",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Yum! Brands",
+            "position": "Senior Software Engineer 2",
+            "url": "https://yum.com/",
+            "startDate": "2022-12-01",
+            "endDate": "",
+            "summary": "Tech Lead for the Developer Experience and Architecture team.",
+            "highlights": [
+                "Primary Stakeholder for Yum Ecommerce Platform's Supergraph API"
+            ]
+        },
+        {
+            "organization": "Yum! D&T India",
+            "position": "Head, Data Engineering",
+            "url": "https://yum.com/",
+            "startDate": "2022-12-01",
+            "endDate": "",
+            "summary": "Tech Lead for the Developer Experience and Architecture team.",
+            "highlights": [
+                "Stakeholder for Yum Ecommerce Platform's Supergraph API"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
