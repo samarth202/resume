@@ -24,41 +24,148 @@
     },
     "work": [
         {
-            "name": "Yum Brands!",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Started the company"
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Yum! Brands",
+            "organization": "Yum! Connect",
+            "location": "Plano, TX, USA",
             "position": "Senior Software Engineer 2",
             "url": "https://yum.com/",
-            "startDate": "2022-12-01",
+            "startDate": "2022-12-11",
             "endDate": "",
-            "summary": "Tech Lead for the Developer Experience and Architecture team.",
+            "summary": "Tech Lead for the Yum e-commerce Developer Experience and Architecture team.",
             "highlights": [
-                "Primary Stakeholder for Yum Ecommerce Platform's Supergraph API"
+                "Tech Lead for shared Developer Experience and Architecture pod",
+                "Primary Stakeholder for Yum e-commerce Platform's Supergraph API",
+                "Assume Technical Product Owner & Project Manager responsibilities for the team",
+                "Developed a graphql DGS in go-lang",
+                "Develop tools and facilitate multiple teams across the platform",
+                "Involved in the platform federated GraphQL governance",
+                "Participate in Architectural design sessions",
+                "Technical Advisory and Strategy",
+                "Setup and deploy pipelines for multiple subgraphs and variants for apollo federation",
+                "Work on federated graph authorizations"
             ]
         },
         {
             "organization": "Yum! D&T India",
+            "location": "Gurgaon, India",
             "position": "Head, Data Engineering",
             "url": "https://yum.com/",
-            "startDate": "2022-12-01",
-            "endDate": "",
-            "summary": "Tech Lead for the Developer Experience and Architecture team.",
+            "startDate": "2021-06-21",
+            "endDate": "2022-12-10",
+            "summary": "Lead Sales Tax team for Yum e-commerce Platform",
             "highlights": [
-                "Stakeholder for Yum Ecommerce Platform's Supergraph API"
+                "Manage sales tax data for KFC US, Taco Bell US and Pizza Hut US"
+            ]
+        },
+        {
+            "organization": "Yum! Connect",
+            "location": "Plano, TX, USA",
+            "position": "Senior Software Engineer 1",
+            "url": "https://yum.com/",
+            "startDate": "2020-07-13",
+            "endDate": "2021-16-18",
+            "summary": "Lead Sales Tax team for Yum e-commerce Platform",
+            "highlights": [
+                "Tech lead for the commerce platform's Tax team",
+                "Effectively enabled brand stores by creating APIs that helped setup tax rules",
+                "Write and maintain libraries and web services (KTor) written in Kotlin",
+                "Help build and develop the payment gateway and services for Yum's E-Commerce Platform",
+                "Ensured transactions and data are within PCI ",
+                "Worked with AWS's SNS and SQS to perform event-based and async transactions",
+                "Worked closely in customer's payments account management in the e-commerce platform",
+                "Communicating directly with different vendor providers",
+                "Helped in Initial E-Commerce platform to meet vendor's requirements",
+                "Built a CLI tool used by many teams within Yum's commerce platform to aid the development process",
+                "Setup integration tests and unit tests for payments services",
+                "Created multiple Grafana Dashboards to summarize micro-services health throughout the platform",
+                "Drastically reduced spinning up the local platform by optimizing docker image parallel pulls and builds",
+                "Set up features to be enabled using feature flags",
+                "Kafka integration with Kotlin services",
+                "Worked on federated GraphQL services using Apollo",
+                "Developed an SDK module in Javascript (WEB platforms) and Android for brands to easily integrate and start the payment flows in the platform",
+                "Migrated some of the payment flows to use Faktory work servers and Kafka",
+                "Leveraged CI Pipelines to do automate data entry scripts across all environments",
+                "Created a strongly typed API to author different Tax Rules to calculate taxes"
+            ]
+        },
+        {
+            "organization": "Estech Systems Inc",
+            "location": "Plano, TX, USA",
+            "position": "Senior Software Engineer",
+            "url": "https://www.esi-estech.com/",
+            "startDate": "2019-11-27",
+            "endDate": "2020-06-15",
+            "summary": "Lead backend engineer for ESI's IOT management system dashboard",
+            "highlights": [
+                "Built a microservice architecture and framework from scratch using Docker, contianerd, and Kubernetes",
+                "Worked closely with Product Lead and the Director of Engineering and was involved in many technical decisions taken for the platform",
+                "Researched various API gateway solutions and implemented Express Gateway (based on Express Server)",
+                "Developed custom Authentication and Authorization plugin packages for Express Gateway",
+                "Designed session and API token management based on OAuth using JWT.",
+                "Developed and deployed AWS lambda functions using Serverless framework",
+                "Created a Kubernetes Test and staging environment for our new platform on EC2 instances using Rancher",
+                "Spearheaded the backend development for an IOT (security devices) management system dashboard.",
+                "Implemented automated unit and functional testing and ensured 100% code coverage.",
+                "Setup and maintained backend API documentation using Postman",
+                "Successfully integrated cloud monitoring and logging tools for our cloud servers - Datadog, NewRelic, etc.",
+                "Re-wrote and refactored existing Node.js application to use ES6",
+                "Participated in the hiring process to expand the engineering team",
+                "Collaborated round the clock with colleagues working remotely from different countries",
+                "Developed GraphQL APIs for various data points with pagination"
+            ]
+        },
+        {
+            "organization": "BookMyShow",
+            "location": "Mumbai, India",
+            "position": "Software Developer",
+            "url": "https://bookmyshow.com/",
+            "startDate": "2015-06-24",
+            "endDate": "2026-08-01",
+            "summary": "Backend Developer in BookMyShow's cardless payment system",
+            "highlights": [
+                "Technologies worked on: NodeJS, C#, MongoDB, Docker, RabbitMQ, Redis, Couch Base, IronMQ.",
+                "Experience with Virtual Cash - User + Promotional.",
+                "Migrated essential code/service to open source.",
+                "Created a RESTful API, JSON, SOAP Webservice with the help of NodeJS and Express.",
+                "Reduced failure rate of credit transactions by almost 90% by implementing a major fallback code.",
+                "Implemented Initial codebase in Node.JS + Docker for MyWallet.",
+                "Created automated programs for document processing.",
+                "Developed asynchronous transaction handling using Queues (RabbitMQ + NodeJS)",
+                "Integrated MyWallet payment systems with ATMs and third party locations.",
+                "Documentation of MyWallet.",
+                "Assisted in monthly statement generation for users.",
+                "Asynchronous and parallel processing of transaction to significantly improve performance.",
+                "Implemented API authentication for third-party API calls.",
+                "Managing and deploying open source applications on the test environment.",
+                "Developed code for generating and sending monthly statement pdfs."
+            ]
+        },
+        {
+            "organization": "Suven Consultants",
+            "location": "Mumbai, India",
+            "position": "Software Developer Intern",
+            "url": "",
+            "startDate": "2013-12-01",
+            "endDate": "2014-01-31",
+            "summary": "Android Developer",
+            "highlights": [
+                "Developed an android m-learning application with rich multimedia and GUI tailor-made for kids.",
+                "Featured learning alphabets, numbers, rhymes, videos, text to speech modules, etc."
             ]
         }
     ],
+    "volunteer": [{
+        "organization": "National Service Scheme, Mumbai",
+        "position": "Social Service Worker and Volunteer",
+        "url": "https://nssmu.in/",
+        "startDate": "2013-06-01",
+        "endDate": "2015-05-21",
+        "summary": "Part of the NSS cell in Don Bosco Institute of Technology, Mumbai.",
+        "highlights": [
+          "Aided in basic computer education for underprivileged children",
+          "Participated in various rallys for social causes, like AIDS awareness, Anti-Drug, etc.",
+          "Volunteered in camps located in rural areas to help the local community"
+        ]
+      }],
     "education": [
         {
             "institution": "University",
