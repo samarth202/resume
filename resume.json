@@ -151,7 +151,7 @@
             "organization": "Southern Methodist University",
             "location": "Dallas, TX, USA",
             "position": "Office Of Information Technology Support Associate",
-            "url": "https://www.smu.com/",
+            "url": "https://www.smu.edu/oit",
             "startDate": "2016-15-08",
             "endDate": "2017-05-01",
             "summary": "OIT provides computing & communications resources to SMU. We offer support services to help the SMU community use technology effectively & creatively.",
@@ -204,39 +204,55 @@
             ]
         }
     ],
-    "volunteer": [{
-        "organization": "National Service Scheme, Mumbai",
-        "position": "Social Service Worker and Volunteer",
-        "url": "https://nssmu.in/",
-        "startDate": "2013-06-01",
-        "endDate": "2015-05-21",
-        "summary": "Part of the NSS cell in Don Bosco Institute of Technology, Mumbai.",
-        "highlights": [
-          "Aided in basic computer education for underprivileged children",
-          "Participated in various rallys for social causes, like AIDS awareness, Anti-Drug, etc.",
-          "Volunteered in camps located in rural areas to help the local community"
-        ]
-      }],
+    "volunteer": [
+        {
+            "organization": "National Service Scheme, Mumbai",
+            "position": "Social Service Worker and Volunteer",
+            "url": "https://nssmu.in/",
+            "startDate": "2013-06-01",
+            "endDate": "2015-05-21",
+            "summary": "Part of the NSS cell in Don Bosco Institute of Technology, Mumbai.",
+            "highlights": [
+                "Aided in basic computer education for underprivileged children",
+                "Participated in various rallys for social causes, like AIDS awareness, Anti-Drug, etc.",
+                "Volunteered in camps located in rural areas to help the local community"
+            ]
+        }
+    ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
+            "institution": "Don Bosco Institute of Technology, Mumbai",
+            "url": "https://dbit.in",
+            "area": "Information Technology and Software Engineering",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "score": "4.0",
-            "courses": [
-                "DB1101 - Basic SQL"
-            ]
+            "startDate": "2011-06-01",
+            "endDate": "2015-05-01",
+            "score": "3.26",
+            "courses": []
+        },
+        {
+            "institution": "Southern Methodist University",
+            "url": "https://smu.edu/",
+            "area": "Information Engineering and Management",
+            "studyType": "Masters",
+            "startDate": "2016-08-12",
+            "endDate": "2017-05-01",
+            "score": "3.63",
+            "courses": []
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "title": "Yum.Dev Builder Award",
+            "date": "2019-09-01",
+            "awarder": "Yum Brands!",
+            "summary": "Delivering payment features and services for Yum's E-Commerce Platform and on boarding KFC US to the platform"
+        },
+        {
+            "title": "Yum Leaders Award",
+            "date": "2019-09-01",
+            "awarder": "Yum Brands!",
+            "summary": "Outstanding performance delivering features and services for Yum's E-Commerce Platform - Payments and Taxes"
         }
     ],
     "certificates": [
@@ -247,23 +263,68 @@
             "url": "https://certificate.com"
         }
     ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
-        }
-    ],
+    "publications": [],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Backend Development",
             "level": "Master",
             "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript"
+                "Node.JS",
+                "JavaSript",
+                "Kotlin",
+                "Go",
+                "Docker",
+                "Microservices",
+                "REST",
+                "GraphQL",
+                "C#",
+                "Python",
+                "Java",
+                "RabbitMQ",
+                "Redis",
+                "MongoDB",
+                "Postgres",
+                "Entity Framework",
+                "Oracle Database",
+                "AWS",
+                "Google Cloud",
+                "Kong",
+                "Express",
+                "Ktor",
+                "Apollo",
+                "TypeScript",
+                "Android",
+                "Kafka",
+                "Faktory",
+                "IronMQ",
+                "Swagger",
+                "Splunk"
+            ]
+        },
+        {
+            "name": "Infrastructure Engineering",
+            "level": "Master",
+            "keywords": [
+                "Kubernetes",
+                "Docker",
+                "AWS",
+                "Google Cloud",
+                "Rancher",
+                "Datadog",
+                "NewRelic",
+                "Shell Scripting",
+                "Linux",
+                "CI/CD",
+                "Jenkins",
+                "Bamboo",
+                "Gitlab",
+                "Helm",
+                "Grafana",
+                "Prometheus",
+                "Kibana",
+                "ElasticSearch",
+                "Logstash",
+                "Kibana"
             ]
         }
     ],
@@ -271,33 +332,59 @@
         {
             "language": "English",
             "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Malayalam",
+            "fluency": "Native speaker"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
+            "name": "Home Automation",
+            "keywords": []
+        },
+        {
+            "name": "Travelling",
+            "keywords": []
+        },
+        {
+            "name": "Reading",
             "keywords": [
-                "Ferrets",
-                "Unicorns"
+                "Pragmatic Programmer",
+                "Deep Work",
+                "The Phoenix Project",
+                "Atomic Habits"
             ]
         }
     ],
     "references": [
         {
-            "name": "Jane Doe",
-            "reference": "Reference…"
+            "name": "Kelly Cullum",
+            "reference": "VP Partnerships, Cartizen"
+        },
+        {
+            "name": "William Cervin",
+            "reference": "CEO, Cartizen"
+        },
+        {
+            "name": "Alex Peter",
+            "reference": "Tax Business Analyst, Yum! Brands"
         }
     ],
     "projects": [
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
+            "name": "Visual Cryptography",
+            "startDate": "2014-06-01",
+            "endDate": "2025-05-01",
+            "description": "A project to encrypt and splitting images into shares using Visual Cryptography",
             "highlights": [
-                "Won award at AIHacks 2016"
+                "Won 3rd best project award in DBIT"
             ],
-            "url": "https://project.com/"
+            "url": ""
         }
     ]
 }
